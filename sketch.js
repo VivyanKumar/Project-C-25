@@ -34,7 +34,7 @@ function setup() {
 
 function draw() {
   rectMode(CENTER);
-  background(0);
+  background(255,255,255);
   
   
   ground.display();
